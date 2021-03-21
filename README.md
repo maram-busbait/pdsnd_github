@@ -10,10 +10,10 @@ Bikeshare
  Bike share systems for three major cities in the United States—Chicago, New York City. It is to import the data and answer interesting questions about it by computing descriptive statistics
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+* bikeshare.py
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
  Programming for Data Science with Python
