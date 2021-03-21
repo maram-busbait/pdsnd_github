@@ -33,7 +33,7 @@ def get_filters():
     while True:
            months=['january', 'february', 'march', 'april', 'may', 'june']
            try:
-              month = input("enter month january, february, march, april, may, june:").lower()
+              month = input("Enter the month you are interested in month january, february, march, april, may, june:").lower()
               if month in months:
                break
            except:
