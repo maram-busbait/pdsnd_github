@@ -7,7 +7,7 @@
 Bikeshare
 
 ### Description
- Bike share systems for three major cities in the United States—Chicago, New York City. It is to import the data and answer interesting questions about it by computing descriptive statistics
+ Bike share systems for three major cities in the United States—Chicago, New York City and Washington. It is to import the data and answer interesting questions about it by computing descriptive statistics
 
 ### Files used
 * bikeshare.py
